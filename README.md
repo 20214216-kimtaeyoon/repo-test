@@ -1,8 +1,3 @@
-# repo-test
-깃과 깃허브 연동 
-
- 
-<img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=opensourceinitiative&logoColor=black"/>
 
 
  ## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=opensourceinitiative&logoColor=black"/>오픈소스소프트웨어 저작권 <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=opensourceinitiative&logoColor=black"/>
